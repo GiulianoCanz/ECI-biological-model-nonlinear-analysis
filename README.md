@@ -62,6 +62,7 @@ ECI_model.m is the main script that the user has to run. Here the workflow follo
 11. Line 133 : the stability of the fixed points is analyzed. In the 'eigvi' matrix we find the eigenvalues of the jacobian matrix linearized around the equilibrium points ;
 12. Line 146 : the bifurcation diagrams are computed for C, DC, an K cells, with respect to a variation of parameter rho (the immune recognition). In this diagrams, blue dots represent stable fixed points (both stable nodes and stable foci), and red ones represents unstable fixed points (both unstable nodes and foci) ;
 
+
 Some output images related to rho = 2 and case 1 :
 
 <img src="https://user-images.githubusercontent.com/48331066/204828044-1e52869f-7cf5-4404-b326-2a9cad720a4a.png" width="50%" height="50%">
