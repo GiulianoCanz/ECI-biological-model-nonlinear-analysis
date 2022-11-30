@@ -71,10 +71,10 @@ Some output images related to rho = 2 and case 1 :
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## The files
- ECI_model.m = main script for the model's analysis;
- ECI_equations.m = code of model's equations (the generatrix functions of the state flow);
- hill_function.m = code of the shifted hill function equation;
- p_hill_function.m = code of the pointwise version of the shifted hill function equation;
- parameters.mat = model parameters;
- intersections.m = code of the function adopted to find out the quasi steady state equilibrium points;
- stability.m = code of the function used to verify the points stability in the bifurcation diagrams.
+- ECI_model.m = main script for the model's analysis;
+- ECI_equations.m = code of model's equations (the generatrix functions of the state flow);
+- hill_function.m = code of the shifted hill function equation;
+- p_hill_function.m = code of the pointwise version of the shifted hill function equation;
+- parameters.mat = model parameters;
+- intersections.m = code of the function adopted to find out the quasi steady state equilibrium points;
+- stability.m = code of the function used to verify the points stability in the bifurcation diagrams.
