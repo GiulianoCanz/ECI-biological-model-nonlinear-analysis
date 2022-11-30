@@ -5,7 +5,7 @@
  The code was tested with Matlab R2021a.
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ## Introduction
+ ## Introduction to the model
 
   Matlab analysis of the biological non-linear model known as ECI model (Exosome exchange-based Cancer–Immunity interplay model), which takes into account the role of the exosomes in the interplay between cancer cells (C) and immune cells (in particular two kind of immune cells: Dendritic (DC or D) and Killer (K) ).
   
@@ -16,7 +16,7 @@
  - If lambda > 1 → activated communication;
  - If lambda < 1 → inhibited communication;
  - If lambda = 1 → no effect, in this case H=1.
- 
+
  It can be said that λ<sup>+</sup> is the term referred to the activation, instead λ<sup>−</sup> is referred to the inhibition. It’s important to specify that the positive terms of the equations describe the proliferation, instead the negative terms are the apoptosis contributions although the presence of an activating Shifted Hill functions (λ+).
  Furthermore, also the effect caused by the immune recognition 'ρ' is included in the model, since it modulates the basal values of λ<sup>+</sup><sub>DC</sub> and λ<sup>+</sup><sub>KC</sub>. during the tumour growth, ρ gradually increases from 0 to 1, then it can eventually decrease. Since the dynamics of ρ is much slower comparing to the interplay between C, K and D cells, it can be neglected, and set static to a constant value. So a 'quasi-static approximation' is made along all the analysis.
 
