@@ -63,7 +63,7 @@ ECI_model.m is the main script that the user has to run. Here the workflow follo
 12. Line 146 : the bifurcation diagrams are computed for C, DC, an K cells, with respect to a variation of parameter rho (the immune recognition). In this diagrams, blue dots represent stable fixed points (both stable nodes and stable foci), and red ones represents unstable fixed points (both unstable nodes and foci) ;
 
 Some output images related to rho = 2 and case 1 :
-![3d_phasespace_rho2](https://user-images.githubusercontent.com/48331066/204828044-1e52869f-7cf5-4404-b326-2a9cad720a4a.png)
+![3d_phasespace_rho2](https://user-images.githubusercontent.com/48331066/204828044-1e52869f-7cf5-4404-b326-2a9cad720a4a.png = 300x300)
 ![Kcells_rho2](https://user-images.githubusercontent.com/48331066/204828119-ec373e68-9df3-43d0-bd3f-77f8e33b1058.png)
 ![phase_plane_rho2](https://user-images.githubusercontent.com/48331066/204828194-91f560ed-1cb1-4bca-b48b-82a55dedcfae.png)
 ![bifurcations_rho2](https://user-images.githubusercontent.com/48331066/204828221-d0d5f8e9-c078-40d5-96ca-62adf7b4bdea.png)
