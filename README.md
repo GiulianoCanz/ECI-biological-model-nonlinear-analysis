@@ -80,6 +80,6 @@ Some output images related to rho = 2 and case 1 :
 - hill_function.m = code of the shifted hill function equation;
 - p_hill_function.m = code of the pointwise version of the shifted hill function equation;
 - parameters.mat = model parameters;
-- intersections.m = code of the function adopted to find out the quasi steady state equilibrium points;
+- intersections.m = function by Douglas Schwarz, adopted to find out the quasi steady state equilibrium points;
                     This function is available here for download: https://it.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections
 - stability.m = code of the function used to verify the points stability in the bifurcation diagrams.
