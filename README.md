@@ -74,7 +74,7 @@ Some output images related to rho = 2 and case 1 :
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## The files
+## Files
 - ECI_model.m = main script for the model's analysis;
 - ECI_equations.m = code of model's equations (the generatrix functions of the state flow);
 - hill_function.m = code of the shifted hill function equation;
